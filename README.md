@@ -1,4 +1,4 @@
-## This study analyzes the efffects of pharmaceuticals on mice being treated for squamous cell carcinoma over the course of 45 days. The purpose of the study was to compare the performace of Capomulin versus the other treatment regimens. 
+## This study analyzes the effects of pharmaceuticals on mice being treated for squamous cell carcinoma over the course of 45 days. The purpose of the study was to compare the performace of Capomulin versus the other treatment regimens. 
 
 *This dataset is slightly more representative of male mice than female mice, with a males making up 50.4% and females making up 49.6%. 
 
